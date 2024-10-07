@@ -20,7 +20,7 @@ jobs:
       - name: Checkout hugo_generator repository
         uses: actions/checkout@v3
         with:
-          repository: ReverendHill/hugo_generator
+          repository: dodwmd/hugo_generator
           path: hugo_generator
 
       - name: Set up Python
