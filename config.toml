@@ -13,10 +13,10 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/background1.png"
   SEOTitle = "Clyde Hill"
-  description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
-  keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  description = "Clyde Hill, Site Reliability Engineer, programmer, life adventurer. This is Clyde's blog to help you discover technology."
+  keyword = "Kubernetes, Microservice"
   slogan = "Simplicity in design leads to reliability in operations"
   upstreamAttribution = true
 
@@ -63,7 +63,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = true 
-  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
+  # reward_guide = "" 
 
   friends = true
   bookmarks = false
@@ -95,8 +95,8 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  title = ""
+  href =  ""
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
