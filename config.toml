@@ -22,7 +22,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Not Found :("
-  omit_categories = false
+  omit_categories = true
 
   # leancloud storage for page view counter
   page_view_counter = false
@@ -62,7 +62,7 @@ home = ["HTML", "RSS", "Algolia"]
   artalk_site = "xxx blog"
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false 
   # reward_guide = "" 
 
   friends = true
