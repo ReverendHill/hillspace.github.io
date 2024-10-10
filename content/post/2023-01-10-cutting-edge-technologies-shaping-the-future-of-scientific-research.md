@@ -5,7 +5,7 @@ comments: true
 description: "A comprehensive guide to Cutting-Edge Technologies Shaping the Future of Scientific Research"
 headline: "Cutting-Edge Technologies Shaping the Future of Scientific Research: Everything You Need to Know"
 mathjax: null
-modified: 2023-1-10
+modified: 2023-01-10
 tags:
   - technology
   - technology
