@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![Maestro Screen](static/img/maestro1.JPG)
+![Maestro Screen](https://github.com/ReverendHill/hillspace.github.io/blob/main/static/img/maestro1.JPG)
 
 
 
