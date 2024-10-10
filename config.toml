@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "img/background2.webp"
   SEOTitle = "Clyde Hill"
   description = "Clyde Hill, Site Reliability Engineer, programmer, life adventurer. This is Clyde's blog to help you discover technology."
-  keyword = "Kubernetes, Microservice"
+  keyword = "Sre, Kubernetes, Devops, Linux, Aws, Gcp, Security"
   slogan = "Simplicity in design leads to reliability in operations"
   upstreamAttribution = true
 
