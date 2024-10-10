@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![Maestro Screen](/public/img/maestro1.jpg)
+![Maestro Screen](../blob/main/static/img/maestro1.jpg)
 
 
 
