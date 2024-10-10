@@ -10,7 +10,7 @@ tags:
   - data science
   - technology
   - programming
-title: "Applying Machine Learning in Engineering for Predictive Maintenance Solutions": A Deep Dive"
+title: "Applying Machine Learning in Engineering for Predictive Maintenance Solutions: A Deep Dive"
 url: /2024-10-10/applying-machine-learning-in-engineering-for-predictive-maintenance-solutions/
 image: 
 ---
