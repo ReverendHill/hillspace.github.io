@@ -5,13 +5,13 @@ comments: true
 description: "A comprehensive guide to The human internet is dying. AI images are taking over Google top results"
 headline: "The human internet is dying. AI images are taking over Google top results: Everything You Need to Know"
 mathjax: null
-modified: 2024-10-09
+modified: 2024-07-02
 tags:
   - security
   - technology
   - programming
 title: "The human internet is dying. AI images are taking over Google top results: A Deep Dive"
-url: /2024-10-09/the-human-internet-is-dying-ai-images-are-taking-over-google-top-results/
+url: /2024-07-02/the-human-internet-is-dying-ai-images-are-taking-over-google-top-results/
 image: 
 ---
 

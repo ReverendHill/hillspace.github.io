@@ -5,13 +5,13 @@ comments: true
 description: "A comprehensive guide to Google’s AI thinks I left a Gatorade bottle on the moon"
 headline: "Google’s AI thinks I left a Gatorade bottle on the moon: Everything You Need to Know"
 mathjax: null
-modified: 2024-10-07
+modified: 2024-05-25
 tags:
   - technology
-  - technology
+  - AI
   - programming
 title: "Google’s AI thinks I left a Gatorade bottle on the moon: A Deep Dive"
-url: /2024-10-07/googles-ai-thinks-i-left-a-gatorade-bottle-on-the-moon/
+url: /2024-05-25/googles-ai-thinks-i-left-a-gatorade-bottle-on-the-moon/
 image: 
 ---
 

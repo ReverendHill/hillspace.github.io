@@ -5,13 +5,13 @@ comments: true
 description: "A comprehensive guide to Advancements in Linux Kernel Development for Enhanced Performance and Security"
 headline: "Advancements in Linux Kernel Development for Enhanced Performance and Security: Everything You Need to Know"
 mathjax: null
-modified: 2024-10-07
+modified: 2024-05-02
 tags:
   - technology
-  - technology
+  - security
   - programming
 title: "Advancements in Linux Kernel Development for Enhanced Performance and Security: A Deep Dive"
-url: /2024-10-07/advancements-in-linux-kernel-development-for-enhanced-performance-and-security/
+url: /2024-05-02/advancements-in-linux-kernel-development-for-enhanced-performance-and-security/
 image: 
 ---
 

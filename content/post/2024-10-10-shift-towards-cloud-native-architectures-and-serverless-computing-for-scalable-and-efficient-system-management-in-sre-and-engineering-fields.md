@@ -5,13 +5,13 @@ comments: true
 description: "A comprehensive guide to Shift towards cloud-native architectures and serverless computing for scalable and efficient system management in SRE and engineering fields"
 headline: "Shift towards cloud-native architectures and serverless computing for scalable and efficient system management in SRE and engineering fields: Everything You Need to Know"
 mathjax: null
-modified: 2024-10-10
+modified: 2024-08-09
 tags:
-  - technology
+  - sre
   - technology
   - programming
-title: "Shift towards cloud-native architectures and serverless computing for scalable and efficient system management in SRE and engineering fields: A Deep Dive"
-url: /2024-10-10/shift-towards-cloud-native-architectures-and-serverless-computing-for-scalable-and-efficient-system-management-in-sre-and-engineering-fields/
+title: "Shift towards cloud-native architectures and serverless computing for scalable and efficient system management in SRE and engineering fields
+url: /2024-08-09/shift-towards-cloud-native-architectures-and-serverless-computing-for-scalable-and-efficient-system-management-in-sre-and-engineering-fields/
 image: 
 ---
 

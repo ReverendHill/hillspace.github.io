@@ -5,13 +5,13 @@ comments: true
 description: "A comprehensive guide to Germany's 49-euro ticket resulted in significant shift from road to rail"
 headline: "Germany's 49-euro ticket resulted in significant shift from road to rail: Everything You Need to Know"
 mathjax: null
-modified: 2024-10-13
+modified: 2024-10-10
 tags:
   - technology
   - technology
   - programming
-title: "Germany's 49-euro ticket resulted in significant shift from road to rail: A Deep Dive"
-url: /2024-10-13/germany-s-49-euro-ticket-resulted-in-significant-shift-from-road-to-rail/
+title: "Germany's 49-euro ticket resulted in significant shift from road to rail"
+url: /2024-10-10/germany-s-49-euro-ticket-resulted-in-significant-shift-from-road-to-rail/
 image: 
 ---
 

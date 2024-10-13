@@ -5,13 +5,13 @@ comments: true
 description: "A comprehensive guide to US antitrust case against Amazon to move forward"
 headline: "US antitrust case against Amazon to move forward: Everything You Need to Know"
 mathjax: null
-modified: 2024-10-07
+modified: 2024-06-20
 tags:
-  - technology
+  - Business
   - technology
   - programming
 title: "US antitrust case against Amazon to move forward: A Deep Dive"
-url: /2024-10-07/us-antitrust-case-against-amazon-to-move-forward/
+url: /2024-06-20/us-antitrust-case-against-amazon-to-move-forward/
 image: 
 ---
 
