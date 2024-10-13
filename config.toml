@@ -112,7 +112,7 @@ home = ["HTML", "RSS", "Algolia"]
   href = "https://unsplash.com"
   
   [[params.addtional_menus]]
-  title =  "ABOUT ME"
+  title =  "ABOUT"
   href =  "/about/"
   [[params.addtional_menus]]
   title =  "PORTFOLIO"
