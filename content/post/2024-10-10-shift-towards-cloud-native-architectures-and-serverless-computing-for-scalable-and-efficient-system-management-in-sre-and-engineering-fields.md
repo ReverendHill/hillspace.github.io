@@ -10,7 +10,7 @@ tags:
   - sre
   - technology
   - programming
-title: "Shift towards cloud-native architectures and serverless computing for scalable and efficient system management in SRE and engineering fields
+title: "Shift towards cloud-native architectures and serverless computing for scalable and efficient system management in SRE and engineering fields"
 url: /2024-08-09/shift-towards-cloud-native-architectures-and-serverless-computing-for-scalable-and-efficient-system-management-in-sre-and-engineering-fields/
 image: 
 ---
