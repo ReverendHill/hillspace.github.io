@@ -12,3 +12,5 @@ Driven by a passion for innovation, I am always seeking new challenges and learn
 In my free time, I like writing technical blog posts, working on my project car, camping, hiking, and learning new languages.
 
 Feel free to connect with me on Github and Linkedin, or share your ideas by [writing me an email](mailto:clyde.hill.3rd@gmail.com). 
+
+![Clyde](https://raw.githubusercontent.com/ReverendHill/hillspace.github.io/refs/heads/main/static/img/clydeBronco1.jpg)
