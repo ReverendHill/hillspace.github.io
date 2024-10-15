@@ -20,7 +20,7 @@ During my time at Fox, I was instrumental in maintaining high-performance infras
 
 By collaborating with cross-functional teams, I played a key role in optimizing performance and reducing system downtime, helping Fox deliver a superior user experience. My work contributed to streamlining operational processes, improving infrastructure automation, and ensuring the scalability of Fox's platforms to handle increasing demand. Through my efforts, I helped improve system resiliency and foster a more efficient and reliable technical environment at Fox.
 
-This was my first leadership role as a Lead Site Reliability Engineer, which enabled to me to make strategic decisions and mentor other SRE members on my team. This leadership experience gave me great insight on what it takes to be a good leader, how a leader should act, and how to efficiently balance communications between executives and developers. 
+This was my first leadership role as a Lead Site Reliability Engineer, which enabled to me to make strategic decisions and mentor other SRE members on my team. This leadership experience provided valuable insights into effective leadership, demonstrating how a leader should act and how to skillfully balance communication between executives and developers for optimal efficiency.
 
 ---
 
