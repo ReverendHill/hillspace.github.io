@@ -38,13 +38,10 @@ I was involved in architecting back-end services and front-end implementations, 
 
 ![Neudesic Screen](https://raw.githubusercontent.com/ReverendHill/hillspace.github.io/refs/heads/main/static/img/neudesic1.JPG)
 
-At Neudesic, a leading technology consulting firm specializing in innovative digital transformation solutions, I contributed to several high-impact projects focused on cloud infrastructure, site reliability engineering, and automation. Neudesic's mission of delivering tailored, cutting-edge technology solutions aligned perfectly with my expertise in building scalable, secure, and highly available systems.
+At Neudesic, a leading technology consulting firm specializing in innovative digital transformation solutions, I contributed to several high-impact projects focused on a Single Source Processing Application and a Sales Order Entry System. Neudesic's mission of delivering tailored, cutting-edge technology gave me a strong foundation in web development and system architecture.
 
-During my tenure, I played a key role in designing and implementing robust cloud infrastructures that enabled clients to transition seamlessly to modern, cloud-native architectures. I collaborated closely with cross-functional teams to deploy solutions using Infrastructure as Code (IaC) tools such as Terraform and automated CI/CD pipelines, improving the efficiency and speed of software delivery processes for clients across various industries.
+During my tenure, I played a key role in designing and implementing robust applications that enabled clients to expand their services while offering more buying options for their consumers. I collaborated closely with cross-functional teams to build reliable and scalable systems that gave the clients confidence in their applications.
 
-I also led initiatives to optimize system performance and reliability, using advanced monitoring and observability tools to proactively identify and resolve potential issues. My work helped ensure that Neudesic's clients could maintain the availability and performance of their critical business applications, ultimately empowering them to stay competitive in today’s fast-paced digital landscape.
-
-My contributions at Neudesic not only enhanced the operational stability of client environments but also helped organizations innovate and transform their business operations through the strategic use of technology.
 
 
 
